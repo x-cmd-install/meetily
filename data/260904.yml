@@ -7,13 +7,13 @@ about:
   head: 0281737
   archived: false
   latestVersion: v0.4.0
-  collectedAt: 2026-09-04T19:58:16Z
+  collectedAt: 2026-09-04T20:40:45Z
 timeline:
   created: 2024-12-26
   lastCommit: 2026-06-05
   lastRelease: 2026-06-05
 popularity:
-  star: 30340
+  star: 30342
   watcher: 149
   fork: 3277
   release: 11
@@ -91,5 +91,118 @@ total:
   openIssue: 225
   commit: 556
 ---
+path: /home/runner/.x-repo/github.com/Zackriya-Solutions/meetily
+collectedAt: 2026-09-04T20:40:46Z
+loc:
+  Rust:
+    code: 34534
+    comments: 3133
+    blanks: 5804
+    files: 147
+  Tsx:
+    code: 19344
+    comments: 1197
+    blanks: 2250
+    files: 116
+  CHeader:
+    code: 7479
+    comments: 315
+    blanks: 1468
+    files: 1
+  Yaml:
+    code: 6410
+    comments: 67
+    blanks: 1354
+    files: 2
+  TypeScript:
+    code: 5980
+    comments: 941
+    blanks: 1026
+    files: 55
+  Sh:
+    code: 3558
+    comments: 472
+    blanks: 641
+    files: 13
+  PowerShell:
+    code: 3378
+    comments: 274
+    blanks: 362
+    files: 10
+  Python:
+    code: 2060
+    comments: 182
+    blanks: 365
+    files: 7
+  Batch:
+    code: 1431
+    comments: 109
+    blanks: 262
+    files: 11
+  Cpp:
+    code: 959
+    comments: 54
+    blanks: 157
+    files: 1
+  JavaScript:
+    code: 689
+    comments: 80
+    blanks: 102
+    files: 11
+  Json:
+    code: 559
+    comments: 0
+    blanks: 0
+    files: 11
+  Css:
+    code: 173
+    comments: 8
+    blanks: 33
+    files: 1
+  Toml:
+    code: 146
+    comments: 62
+    blanks: 44
+    files: 3
+  Sql:
+    code: 114
+    comments: 40
+    blanks: 22
+    files: 10
+  Html:
+    code: 20
+    comments: 0
+    blanks: 3
+    files: 1
+  Swift:
+    code: 20
+    comments: 0
+    blanks: 1
+    files: 1
+  CMake:
+    code: 8
+    comments: 0
+    blanks: 4
+    files: 1
+  Svg:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 5
+  Markdown:
+    code: 0
+    comments: 1666
+    blanks: 701
+    files: 20
+  Text:
+    code: 0
+    comments: 10
+    blanks: 0
+    files: 1
+total:
+  code: 87288
+  comments: 10245
+  blanks: 14843
+  files: 428
 ---
 
