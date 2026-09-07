@@ -5,19 +5,19 @@ about:
   head: 0281737
   archived: false
   latestVersion: "v0.4.0"
-  collectedAt: 2026-09-07T05:39:58Z
+  collectedAt: 2026-09-07T18:48:23Z
 timeline:
   created: 2024-12-26
   lastCommit: 2026-06-05
   lastRelease: 2026-06-05
 popularity:
-  star: 30427
-  watcher: 149
-  fork: 3284
+  star: 30452
+  watcher: 150
+  fork: 3288
   release: 11
   contributor: 14
-  pullRequest: 367
-  issue: 327
+  pullRequest: 372
+  issue: 334
 language:
   Rust: 1653985
   TypeScript: 1060898
@@ -36,61 +36,61 @@ recent:
   last30d:
     since: 2026-08-08
     release: 0
-    mergedPR: 4
-    openPR: 21
+    mergedPR: 5
+    openPR: 24
     closedIssue: 5
-    openIssue: 16
+    openIssue: 23
     commit: 0
   last60d:
     since: 2026-07-09
     release: 0
-    mergedPR: 11
-    openPR: 62
+    mergedPR: 13
+    openPR: 64
     closedIssue: 20
-    openIssue: 48
+    openIssue: 55
     commit: 0
   last90d:
     since: 2026-06-09
     release: 0
-    mergedPR: 11
-    openPR: 92
+    mergedPR: 13
+    openPR: 94
     closedIssue: 23
-    openIssue: 73
+    openIssue: 80
     commit: 0
   last180d:
     since: 2026-03-11
     release: 1
-    mergedPR: 26
-    openPR: 118
+    mergedPR: 28
+    openPR: 120
     closedIssue: 33
-    openIssue: 108
+    openIssue: 115
     commit: 48
   last360d:
     since: 2025-09-12
     release: 5
-    mergedPR: 93
-    openPR: 136
+    mergedPR: 95
+    openPR: 138
     closedIssue: 53
-    openIssue: 180
+    openIssue: 187
     commit: 376
   last720d:
     since: 2024-09-17
     release: 11
-    mergedPR: 129
-    openPR: 139
+    mergedPR: 131
+    openPR: 141
     closedIssue: 101
-    openIssue: 226
+    openIssue: 233
     commit: 556
 total:
   release: 11
-  mergedPR: 129
-  openPR: 139
+  mergedPR: 131
+  openPR: 141
   closedIssue: 101
-  openIssue: 226
+  openIssue: 233
   commit: 556
 ---
 path: /home/runner/.x-repo/github.com/Zackriya-Solutions/meetily
-collectedAt: 2026-09-07T05:40:01Z
+collectedAt: 2026-09-07T18:48:28Z
 loc:
   Rust:
     code: 34534
@@ -206,7 +206,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:40:03+00:00
+  collectedAt: 2026-09-07T18:48:29+00:00
   platform:
     darwin/arm64:
       name:  meetily_aarch64.app.tar.gz
