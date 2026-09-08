@@ -5,19 +5,19 @@ about:
   head: 0281737
   archived: false
   latestVersion: "v0.4.0"
-  collectedAt: 2026-09-08T03:04:04Z
+  collectedAt: 2026-09-08T05:37:08Z
 timeline:
   created: 2024-12-26
   lastCommit: 2026-06-05
   lastRelease: 2026-06-05
 popularity:
-  star: 30468
+  star: 30472
   watcher: 149
   fork: 3290
   release: 11
   contributor: 14
   pullRequest: 372
-  issue: 334
+  issue: 335
 language:
   Rust: 1653985
   TypeScript: 1060898
@@ -39,7 +39,7 @@ recent:
     mergedPR: 5
     openPR: 23
     closedIssue: 5
-    openIssue: 23
+    openIssue: 24
     commit: 0
   last60d:
     since: 2026-07-10
@@ -47,7 +47,7 @@ recent:
     mergedPR: 13
     openPR: 62
     closedIssue: 20
-    openIssue: 51
+    openIssue: 52
     commit: 0
   last90d:
     since: 2026-06-10
@@ -55,7 +55,7 @@ recent:
     mergedPR: 13
     openPR: 93
     closedIssue: 23
-    openIssue: 80
+    openIssue: 81
     commit: 0
   last180d:
     since: 2026-03-12
@@ -63,7 +63,7 @@ recent:
     mergedPR: 28
     openPR: 118
     closedIssue: 33
-    openIssue: 114
+    openIssue: 115
     commit: 48
   last360d:
     since: 2025-09-13
@@ -71,7 +71,7 @@ recent:
     mergedPR: 94
     openPR: 138
     closedIssue: 53
-    openIssue: 187
+    openIssue: 188
     commit: 376
   last720d:
     since: 2024-09-18
@@ -79,18 +79,18 @@ recent:
     mergedPR: 131
     openPR: 141
     closedIssue: 101
-    openIssue: 233
+    openIssue: 234
     commit: 556
 total:
   release: 11
   mergedPR: 131
   openPR: 141
   closedIssue: 101
-  openIssue: 233
+  openIssue: 234
   commit: 556
 ---
 path: /home/runner/.x-repo/github.com/Zackriya-Solutions/meetily
-collectedAt: 2026-09-08T03:04:07Z
+collectedAt: 2026-09-08T05:37:11Z
 loc:
   Rust:
     code: 34534
