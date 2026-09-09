@@ -7,7 +7,7 @@ Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 - **Latest release**: `v0.4.0` (2026-06-05)
 - **Last commit**: 2026-06-05
 - **License**: MIT
-- **Stars**: 30524 · **Forks**: 3291 · **Open issues**: 335 · **Contributors**: 14
+- **Stars**: 30552 · **Forks**: 3287 · **Open issues**: 335 · **Contributors**: 14
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/meetily> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:46:23Z._
+_Last regenerated: 2026-09-09T20:04:19Z._
