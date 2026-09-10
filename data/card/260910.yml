@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.4.0"
   latestRelease: "v0.4.0"
   latestPrerelease: "v0.0.3"
-  collectedAt: 2026-09-10T20:29:20Z
+  collectedAt: 2026-09-10T23:17:41Z
 timeline:
   created: 2024-12-26
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-06-05
   lastPrerelease: 2025-03-03
 popularity:
-  star: 30601
+  star: 30603
   watcher: 146
   fork: 3298
   release: 11
@@ -94,7 +94,7 @@ total:
   commit: 661
 ---
 path: /home/runner/.x-repo/github.com/Zackriya-Solutions/meetily
-collectedAt: 2026-09-10T20:29:22Z
+collectedAt: 2026-09-10T23:17:45Z
 loc:
   Rust:
     code: 38256
