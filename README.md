@@ -38,7 +38,7 @@ Total: **91,800** lines of code across **330** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 30,603 · **Forks**: 3,298 · **Open issues**: 335 · **Contributors**: 21
+- **Stars**: 30,618 · **Forks**: 3,298 · **Open issues**: 335 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **91,800** lines of code across **330** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 11 | 30 | 5 | 23 | 73 |
-| last60d | 2026-07-12 | 0 | 18 | 66 | 20 | 50 | 80 |
-| 90d | 2026-06-12 | 0 | 19 | 99 | 23 | 81 | 82 |
-| last180d | 2026-03-14 | 1 | 34 | 125 | 33 | 114 | 130 |
-| 360d | 2025-09-15 | 5 | 100 | 145 | 53 | 187 | 458 |
-| last720d | 2024-09-20 | 11 | 137 | 148 | 101 | 234 | 661 |
+| 30d | 2026-08-12 | 0 | 11 | 26 | 5 | 23 | 73 |
+| last60d | 2026-07-13 | 0 | 17 | 66 | 20 | 49 | 80 |
+| 90d | 2026-06-13 | 0 | 19 | 99 | 23 | 81 | 82 |
+| last180d | 2026-03-15 | 1 | 34 | 125 | 33 | 114 | 130 |
+| 360d | 2025-09-16 | 5 | 100 | 145 | 53 | 187 | 458 |
+| last720d | 2024-09-21 | 11 | 137 | 148 | 101 | 234 | 661 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for meetily lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:17:50Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:46:25Z._
