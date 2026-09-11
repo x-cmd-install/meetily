@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.4.0"
   latestRelease: "v0.4.0"
   latestPrerelease: "v0.0.3"
-  collectedAt: 2026-09-11T05:46:15Z
+  collectedAt: 2026-09-11T19:08:32Z
 timeline:
   created: 2024-12-26
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-06-05
   lastPrerelease: 2025-03-03
 popularity:
-  star: 30618
+  star: 30651
   watcher: 146
-  fork: 3298
+  fork: 3310
   release: 11
   contributor: 21
-  pullRequest: 385
+  pullRequest: 387
   issue: 335
 language:
   Rust: 1807556
@@ -41,7 +41,7 @@ recent:
     since: 2026-08-12
     release: 0
     mergedPR: 11
-    openPR: 26
+    openPR: 27
     closedIssue: 5
     openIssue: 23
     commit: 73
@@ -49,7 +49,7 @@ recent:
     since: 2026-07-13
     release: 0
     mergedPR: 17
-    openPR: 66
+    openPR: 67
     closedIssue: 20
     openIssue: 49
     commit: 80
@@ -57,7 +57,7 @@ recent:
     since: 2026-06-13
     release: 0
     mergedPR: 19
-    openPR: 99
+    openPR: 100
     closedIssue: 23
     openIssue: 81
     commit: 82
@@ -65,7 +65,7 @@ recent:
     since: 2026-03-15
     release: 1
     mergedPR: 34
-    openPR: 125
+    openPR: 126
     closedIssue: 33
     openIssue: 114
     commit: 130
@@ -73,7 +73,7 @@ recent:
     since: 2025-09-16
     release: 5
     mergedPR: 100
-    openPR: 145
+    openPR: 146
     closedIssue: 53
     openIssue: 187
     commit: 458
@@ -81,20 +81,20 @@ recent:
     since: 2024-09-21
     release: 11
     mergedPR: 137
-    openPR: 148
+    openPR: 149
     closedIssue: 101
     openIssue: 234
     commit: 661
 total:
   release: 11
   mergedPR: 137
-  openPR: 148
+  openPR: 149
   closedIssue: 101
   openIssue: 234
   commit: 661
 ---
 path: /home/runner/.x-repo/github.com/Zackriya-Solutions/meetily
-collectedAt: 2026-09-11T05:46:19Z
+collectedAt: 2026-09-11T19:08:35Z
 loc:
   Rust:
     code: 38256
