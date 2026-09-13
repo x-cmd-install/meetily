@@ -32,45 +32,45 @@ Total: **91,800** lines of code across **330** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.4.0` (2026-06-05)
+- **Latest**: `v0.4.1` (2026-09-12)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 30,661 · **Forks**: 3,313 · **Open issues**: 335 · **Contributors**: 21
+- **Stars**: 30,685 · **Forks**: 3,315 · **Open issues**: 335 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 137 · **Open PRs**: 150 · **Closed issues**: 101 · **Open issues**: 234 · **Commits**: 661
+- **Releases**: 12 · **Merged PRs**: 137 · **Open PRs**: 150 · **Closed issues**: 111 · **Open issues**: 224 · **Commits**: 661
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 11 | 27 | 5 | 23 | 73 |
-| last60d | 2026-07-14 | 0 | 17 | 66 | 20 | 48 | 80 |
-| 90d | 2026-06-14 | 0 | 19 | 101 | 22 | 81 | 82 |
-| last180d | 2026-03-16 | 1 | 34 | 127 | 33 | 114 | 130 |
-| 360d | 2025-09-17 | 5 | 99 | 147 | 53 | 187 | 458 |
-| last720d | 2024-09-22 | 11 | 137 | 150 | 101 | 234 | 661 |
+| 30d | 2026-08-14 | 1 | 11 | 28 | 7 | 21 | 73 |
+| last60d | 2026-07-15 | 1 | 17 | 59 | 13 | 40 | 80 |
+| 90d | 2026-06-15 | 1 | 19 | 100 | 30 | 73 | 82 |
+| last180d | 2026-03-17 | 2 | 34 | 127 | 41 | 106 | 130 |
+| 360d | 2025-09-18 | 6 | 99 | 147 | 63 | 177 | 458 |
+| last720d | 2024-09-23 | 12 | 137 | 150 | 111 | 224 | 661 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [latest.json](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.0/latest.json) | 3.5 KiB | `other` |
-| [meetily_0.4.0_aarch64.dmg](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.0/meetily_0.4.0_aarch64.dmg) | 46.8 MiB | `other` |
-| [meetily_0.4.0_x64-setup.exe](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.0/meetily_0.4.0_x64-setup.exe) | 41.3 MiB | `other` |
-| [meetily_0.4.0_x64-setup.exe.sig](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.0/meetily_0.4.0_x64-setup.exe.sig) | 416 B | `other` |
-| [meetily_0.4.0_x64_en-US.msi](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.0/meetily_0.4.0_x64_en-US.msi) | 66.9 MiB | `other` |
-| [meetily_0.4.0_x64_en-US.msi.sig](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.0/meetily_0.4.0_x64_en-US.msi.sig) | 416 B | `other` |
-| [meetily_aarch64.app.tar.gz](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.0/meetily_aarch64.app.tar.gz) | 48.0 MiB | `native/linux/arm64` |
-| [meetily_aarch64.app.tar.gz.sig](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.0/meetily_aarch64.app.tar.gz.sig) | 404 B | `other` |
+| [latest.json](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/latest.json) | 3.6 KiB | `other` |
+| [meetily_0.4.1_aarch64.dmg](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_aarch64.dmg) | 45.7 MiB | `other` |
+| [meetily_0.4.1_x64-setup.exe](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_x64-setup.exe) | 40.5 MiB | `other` |
+| [meetily_0.4.1_x64-setup.exe.sig](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_x64-setup.exe.sig) | 416 B | `other` |
+| [meetily_0.4.1_x64_en-US.msi](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_x64_en-US.msi) | 65.5 MiB | `other` |
+| [meetily_0.4.1_x64_en-US.msi.sig](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_x64_en-US.msi.sig) | 416 B | `other` |
+| [meetily_aarch64.app.tar.gz](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_aarch64.app.tar.gz) | 47.0 MiB | `native/linux/arm64` |
+| [meetily_aarch64.app.tar.gz.sig](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_aarch64.app.tar.gz.sig) | 404 B | `other` |
 
 ## Distribution status
 
-Reported by **2** distros on [repology.org](https://repology.org/project/meetily). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+Reported by **2** distros on [repology.org](https://repology.org/project/meetily). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -81,4 +81,4 @@ Install metadata for meetily lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:33:43Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:54:05Z._

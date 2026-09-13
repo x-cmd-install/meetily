@@ -32,45 +32,45 @@ x install meetily
 
 ## 发布
 
-- **最新版本**: `v0.4.0` (2026-06-05)
+- **最新版本**: `v0.4.1` (2026-09-12)
 - **最近提交**: 2026-09-10
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 30,661 · **Fork**: 3,313 · **开放 issue**: 335 · **贡献者**: 21
+- **Star**: 30,685 · **Fork**: 3,315 · **开放 issue**: 335 · **贡献者**: 21
 
 ## 累计统计
 
-- **发布数**: 11 · **已合并 PR**: 137 · **开放 PR**: 150 · **已关闭 issue**: 101 · **开放 issue**: 234 · **提交数**: 661
+- **发布数**: 12 · **已合并 PR**: 137 · **开放 PR**: 150 · **已关闭 issue**: 111 · **开放 issue**: 224 · **提交数**: 661
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 11 | 27 | 5 | 23 | 73 |
-| last60d | 2026-07-14 | 0 | 17 | 66 | 20 | 48 | 80 |
-| 90d | 2026-06-14 | 0 | 19 | 101 | 22 | 81 | 82 |
-| last180d | 2026-03-16 | 1 | 34 | 127 | 33 | 114 | 130 |
-| 360d | 2025-09-17 | 5 | 99 | 147 | 53 | 187 | 458 |
-| last720d | 2024-09-22 | 11 | 137 | 150 | 101 | 234 | 661 |
+| 30d | 2026-08-14 | 1 | 11 | 28 | 7 | 21 | 73 |
+| last60d | 2026-07-15 | 1 | 17 | 59 | 13 | 40 | 80 |
+| 90d | 2026-06-15 | 1 | 19 | 100 | 30 | 73 | 82 |
+| last180d | 2026-03-17 | 2 | 34 | 127 | 41 | 106 | 130 |
+| 360d | 2025-09-18 | 6 | 99 | 147 | 63 | 177 | 458 |
+| last720d | 2024-09-23 | 12 | 137 | 150 | 111 | 224 | 661 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [latest.json](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.0/latest.json) | 3.5 KiB | `other` |
-| [meetily_0.4.0_aarch64.dmg](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.0/meetily_0.4.0_aarch64.dmg) | 46.8 MiB | `other` |
-| [meetily_0.4.0_x64-setup.exe](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.0/meetily_0.4.0_x64-setup.exe) | 41.3 MiB | `other` |
-| [meetily_0.4.0_x64-setup.exe.sig](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.0/meetily_0.4.0_x64-setup.exe.sig) | 416 B | `other` |
-| [meetily_0.4.0_x64_en-US.msi](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.0/meetily_0.4.0_x64_en-US.msi) | 66.9 MiB | `other` |
-| [meetily_0.4.0_x64_en-US.msi.sig](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.0/meetily_0.4.0_x64_en-US.msi.sig) | 416 B | `other` |
-| [meetily_aarch64.app.tar.gz](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.0/meetily_aarch64.app.tar.gz) | 48.0 MiB | `native/linux/arm64` |
-| [meetily_aarch64.app.tar.gz.sig](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.0/meetily_aarch64.app.tar.gz.sig) | 404 B | `other` |
+| [latest.json](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/latest.json) | 3.6 KiB | `other` |
+| [meetily_0.4.1_aarch64.dmg](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_aarch64.dmg) | 45.7 MiB | `other` |
+| [meetily_0.4.1_x64-setup.exe](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_x64-setup.exe) | 40.5 MiB | `other` |
+| [meetily_0.4.1_x64-setup.exe.sig](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_x64-setup.exe.sig) | 416 B | `other` |
+| [meetily_0.4.1_x64_en-US.msi](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_x64_en-US.msi) | 65.5 MiB | `other` |
+| [meetily_0.4.1_x64_en-US.msi.sig](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_x64_en-US.msi.sig) | 416 B | `other` |
+| [meetily_aarch64.app.tar.gz](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_aarch64.app.tar.gz) | 47.0 MiB | `native/linux/arm64` |
+| [meetily_aarch64.app.tar.gz.sig](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_aarch64.app.tar.gz.sig) | 404 B | `other` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/meetily) 上共有 **2** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/meetily) 上共有 **2** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
 
 ## 改进这些数据
 
@@ -81,4 +81,4 @@ meetily 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260912.yml` · 2026-09-12T05:33:43Z._
+_数据快照: `data/card/260913.yml` · 2026-09-13T05:54:06Z._
