@@ -38,22 +38,22 @@ x install meetily
 
 ## 流行度
 
-- **Star**: 30,685 · **Fork**: 3,315 · **开放 issue**: 335 · **贡献者**: 21
+- **Star**: 30,729 · **Fork**: 3,317 · **开放 issue**: 336 · **贡献者**: 21
 
 ## 累计统计
 
-- **发布数**: 12 · **已合并 PR**: 137 · **开放 PR**: 150 · **已关闭 issue**: 111 · **开放 issue**: 224 · **提交数**: 661
+- **发布数**: 12 · **已合并 PR**: 137 · **开放 PR**: 150 · **已关闭 issue**: 111 · **开放 issue**: 225 · **提交数**: 661
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 11 | 28 | 7 | 21 | 73 |
-| last60d | 2026-07-15 | 1 | 17 | 59 | 13 | 40 | 80 |
-| 90d | 2026-06-15 | 1 | 19 | 100 | 30 | 73 | 82 |
-| last180d | 2026-03-17 | 2 | 34 | 127 | 41 | 106 | 130 |
-| 360d | 2025-09-18 | 6 | 99 | 147 | 63 | 177 | 458 |
-| last720d | 2024-09-23 | 12 | 137 | 150 | 111 | 224 | 661 |
+| 30d | 2026-08-15 | 1 | 11 | 28 | 7 | 22 | 73 |
+| last60d | 2026-07-16 | 1 | 16 | 56 | 12 | 35 | 77 |
+| 90d | 2026-06-16 | 1 | 19 | 101 | 30 | 74 | 82 |
+| last180d | 2026-03-18 | 2 | 34 | 128 | 41 | 107 | 130 |
+| 360d | 2025-09-19 | 6 | 99 | 147 | 63 | 178 | 454 |
+| last720d | 2024-09-24 | 12 | 137 | 150 | 111 | 225 | 661 |
 
 ## Release 资产
 
@@ -68,10 +68,6 @@ x install meetily
 | [meetily_aarch64.app.tar.gz](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_aarch64.app.tar.gz) | 47.0 MiB | `native/linux/arm64` |
 | [meetily_aarch64.app.tar.gz.sig](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_aarch64.app.tar.gz.sig) | 404 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/meetily) 上共有 **2** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
-
 ## 改进这些数据
 
 meetily 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `meetily` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -81,4 +77,4 @@ meetily 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:54:06Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:04:43Z._
