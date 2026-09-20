@@ -4,7 +4,7 @@
 
 Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes
 
-![meetily](https://repo.x-cmd.io/meetily.svg)
+[![x-cmd/install — meetily Code Quality Monitoring Repo Card](https://repo.x-cmd.io/meetily.svg)](https://x-cmd.com/install/meetily)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **91,800** lines of code across **330** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 30,897 · **Forks**: 3,345 · **Open issues**: 336 · **Contributors**: 21
+- **Stars**: 30,951 · **Forks**: 3,360 · **Open issues**: 337 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 139 · **Open PRs**: 149 · **Closed issues**: 111 · **Open issues**: 225 · **Commits**: 661
+- **Releases**: 12 · **Merged PRs**: 139 · **Open PRs**: 149 · **Closed issues**: 138 · **Open issues**: 199 · **Commits**: 661
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 13 | 26 | 7 | 21 | 73 |
-| last60d | 2026-07-20 | 1 | 18 | 54 | 11 | 32 | 77 |
-| 90d | 2026-06-20 | 1 | 21 | 96 | 30 | 70 | 82 |
-| last180d | 2026-03-22 | 2 | 36 | 127 | 41 | 107 | 130 |
-| 360d | 2025-09-23 | 6 | 101 | 146 | 63 | 178 | 454 |
-| last720d | 2024-09-28 | 12 | 139 | 149 | 111 | 225 | 661 |
+| 30d | 2026-08-21 | 1 | 13 | 25 | 5 | 21 | 73 |
+| last60d | 2026-07-22 | 1 | 17 | 50 | 10 | 33 | 77 |
+| 90d | 2026-06-22 | 1 | 21 | 96 | 31 | 70 | 82 |
+| last180d | 2026-03-24 | 2 | 36 | 126 | 41 | 104 | 130 |
+| 360d | 2025-09-25 | 6 | 101 | 146 | 67 | 175 | 454 |
+| last720d | 2024-09-30 | 12 | 139 | 149 | 138 | 199 | 661 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for meetily lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:59:46Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:55:14Z._
