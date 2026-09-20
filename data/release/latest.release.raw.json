@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3705,
       "digest": "sha256:f5385ec051718c549dfebf18deba17732ec8581308112d48a07f3da3a0e0a584",
-      "download_count": 17418,
+      "download_count": 21320,
       "created_at": "2026-09-12T06:17:18Z",
       "updated_at": "2026-09-12T06:20:41Z",
       "browser_download_url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/latest.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 47951342,
       "digest": "sha256:16f84b1769619ba3da93bc43e9c1fa3320ce2b00cc9e99225a3d21302770eaf5",
-      "download_count": 1846,
+      "download_count": 2290,
       "created_at": "2026-09-10T18:44:18Z",
       "updated_at": "2026-09-10T18:44:20Z",
       "browser_download_url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_aarch64.dmg"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 42483368,
       "digest": "sha256:6321068c98da8bf5392df3825aaa5be0e28349e54436f53d485c08c54b9c9315",
-      "download_count": 2489,
+      "download_count": 2982,
       "created_at": "2026-09-10T18:54:36Z",
       "updated_at": "2026-09-10T18:54:39Z",
       "browser_download_url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_x64-setup.exe"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 416,
       "digest": "sha256:1e8dba6ec881abb8186048e6900abf830f3e5dcb2b072a81170da90ac666c483",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-09-10T18:54:39Z",
       "updated_at": "2026-09-10T18:54:39Z",
       "browser_download_url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_x64-setup.exe.sig"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 68653056,
       "digest": "sha256:fe31ec9fb247821de411e95635c43a3399354dd8a2ce9263460412b021a4d72b",
-      "download_count": 115,
+      "download_count": 152,
       "created_at": "2026-09-10T18:54:32Z",
       "updated_at": "2026-09-10T18:54:35Z",
       "browser_download_url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_x64_en-US.msi"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 416,
       "digest": "sha256:91b46a69be7677caee5301f72006ca919a16c87114297f2f8a6dca8a8362bc6e",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-09-10T18:54:36Z",
       "updated_at": "2026-09-10T18:54:36Z",
       "browser_download_url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_x64_en-US.msi.sig"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 49247769,
       "digest": "sha256:89c695ac5471d0f983de8fbd0e450193698fa2bba534d0c32b33c309a0a17ebf",
-      "download_count": 1055,
+      "download_count": 1206,
       "created_at": "2026-09-10T18:44:21Z",
       "updated_at": "2026-09-10T18:44:23Z",
       "browser_download_url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_aarch64.app.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 404,
       "digest": "sha256:f6cf6778f4e500bd09e38bb877559df6e9a3b4020c8fcd518daa268ff45c8ee6",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-10T18:44:24Z",
       "updated_at": "2026-09-10T18:44:24Z",
       "browser_download_url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_aarch64.app.tar.gz.sig"
@@ -330,13 +330,13 @@
   "body": "## What's Changed\r\n* fix(summary): preserve transcript coverage across chunks by @ShiroKSH in https://github.com/Zackriya-Solutions/meetily/pull/603\r\n* fix(import): use decoder output sample rate, not container rate (HE-AAC half-duration bug) by @iphixit in https://github.com/Zackriya-Solutions/meetily/pull/608\r\n* fix(recording): respect selected transcription provider by @tianrking in https://github.com/Zackriya-Solutions/meetily/pull/639\r\n* fix(summary): handle Claude thinking blocks in Anthropic response parsing by @davertor in https://github.com/Zackriya-Solutions/meetily/pull/694\r\n* fix(transcription): complete post-merge follow-ups by @safvanatzack in https://github.com/Zackriya-Solutions/meetily/pull/737\r\n* Fix: stop dropping transcripts below confidence threshold (#675) by @ironmark72 in https://github.com/Zackriya-Solutions/meetily/pull/681\r\n* fix(ui/summary): meeting-details layout and Ollama reasoning strip (#592) by @aliCamargo in https://github.com/Zackriya-Solutions/meetily/pull/665\r\n* fix(parakeet): preserve completed files across download retries by @VictorMaxWang in https://github.com/Zackriya-Solutions/meetily/pull/682\r\n* fix(ui/summary): follow up #665 reasoning isolation and sidebar logo by @safvanatzack in https://github.com/Zackriya-Solutions/meetily/pull/744\r\n* fix(parakeet): harden recovery after PR #682 by @safvanatzack in https://github.com/Zackriya-Solutions/meetily/pull/749\r\n* fix(audio): Bluetooth mic reliability on macOS — cold-start wake + mid-recording disconnect recovery (#450) by @athulchandroth in https://github.com/Zackriya-Solutions/meetily/pull/748\r\n* fix(vad): stop fragmenting live speech into sub-4s ASR requests, and filter hallucinations on every engine by @Hus-Mek in https://github.com/Zackriya-Solutions/meetily/pull/679\r\n* fix(vad): stabilize live segmentation and final timestamps by @safvanatzack in https://github.com/Zackriya-Solutions/meetily/pull/771\r\n* fix(windows): load compatible ONNX Runtime dynamically by @safvanatzack in https://github.com/Zackriya-Solutions/meetily/pull/767\r\n* Fix microphone checks, summary progress, and Start button layout [skip ci] by @athulchandroth in https://github.com/Zackriya-Solutions/meetily/pull/779\r\n* fix(instrumentation): reduce duplicate transcription diagnostics by @safvanatzack in https://github.com/Zackriya-Solutions/meetily/pull/784\r\n* hotfix(ui): polish sidebar and meeting controls by @safvanatzack in https://github.com/Zackriya-Solutions/meetily/pull/794\r\n* fix(tests): resolve Bun TypeScript errors by @athulchandroth in https://github.com/Zackriya-Solutions/meetily/pull/795\r\n* Release v0.4.1 by @athulchandroth in https://github.com/Zackriya-Solutions/meetily/pull/793\r\n\r\n## Installation\r\n\r\n| Platform | Download Link | Instructions |\r\n|----------|---------------|-------------|\r\n| **Windows** | [meetily_0.4.1_x64-setup.exe](https://github.com/Zackriya-Solutions/meeting-minutes/releases/download/v0.4.1/meetily_0.4.1_x64-setup.exe) | Download and run the installer |\r\n| **macOS** | [meetily_0.4.1_aarch64.dmg](https://github.com/Zackriya-Solutions/meeting-minutes/releases/download/v0.4.1/meetily_0.4.1_aarch64.dmg) | Open the `.dmg` file, drag **Meetily** to Applications folder, then open from Applications |\r\n| **Linux** | Build from source | Follow our detailed guides: [Building on Linux](docs/building_in_linux.md) or [General Build Instructions](docs/BUILDING.md) |\r\n---\r\n\r\n\r\n## New Contributors\r\n* @ShiroKSH made their first contribution in https://github.com/Zackriya-Solutions/meetily/pull/603\r\n* @iphixit made their first contribution in https://github.com/Zackriya-Solutions/meetily/pull/608\r\n* @tianrking made their first contribution in https://github.com/Zackriya-Solutions/meetily/pull/639\r\n* @davertor made their first contribution in https://github.com/Zackriya-Solutions/meetily/pull/694\r\n* @ironmark72 made their first contribution in https://github.com/Zackriya-Solutions/meetily/pull/681\r\n* @aliCamargo made their first contribution in https://github.com/Zackriya-Solutions/meetily/pull/665\r\n* @VictorMaxWang made their first contribution in https://github.com/Zackriya-Solutions/meetily/pull/682\r\n* @Hus-Mek made their first contribution in https://github.com/Zackriya-Solutions/meetily/pull/679\r\n\r\n**Full Changelog**: https://github.com/Zackriya-Solutions/meetily/compare/v0.4.0...v0.4.1",
   "reactions": {
     "url": "https://api.github.com/repos/Zackriya-Solutions/meetily/releases/386528292/reactions",
-    "total_count": 4,
+    "total_count": 6,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
-    "heart": 4,
+    "heart": 6,
     "rocket": 0,
     "eyes": 0
   },
