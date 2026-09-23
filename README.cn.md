@@ -4,7 +4,7 @@
 
 Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes
 
-[![x-cmd/install — meetily Code Quality Monitoring Repo Card](https://repo.x-cmd.io/meetily.svg?lang=zh)](https://x-cmd.com/install/meetily)
+[![x-cmd/install — meetily Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/meetily.svg?lang=zh)](https://x-cmd.com/install/meetily)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install meetily
 
 ## 流行度
 
-- **Star**: 31,019 · **Fork**: 3,370 · **开放 issue**: 337 · **贡献者**: 21
+- **Star**: 31,040 · **Fork**: 3,375 · **开放 issue**: 337 · **贡献者**: 21
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install meetily
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 13 | 24 | 5 | 20 | 67 |
-| last60d | 2026-07-24 | 1 | 17 | 48 | 10 | 32 | 77 |
-| 90d | 2026-06-24 | 1 | 21 | 95 | 31 | 67 | 82 |
-| last180d | 2026-03-26 | 2 | 36 | 126 | 40 | 103 | 130 |
-| 360d | 2025-09-27 | 6 | 100 | 146 | 67 | 175 | 427 |
-| last720d | 2024-10-02 | 12 | 139 | 149 | 138 | 199 | 661 |
+| 30d | 2026-08-24 | 1 | 13 | 24 | 5 | 20 | 67 |
+| last60d | 2026-07-25 | 1 | 17 | 47 | 10 | 32 | 77 |
+| 90d | 2026-06-25 | 1 | 21 | 95 | 31 | 67 | 82 |
+| last180d | 2026-03-27 | 2 | 36 | 126 | 40 | 103 | 130 |
+| 360d | 2025-09-28 | 6 | 100 | 146 | 67 | 175 | 427 |
+| last720d | 2024-10-03 | 12 | 139 | 149 | 138 | 199 | 661 |
 
 ## Release 资产
 
@@ -77,4 +77,4 @@ meetily 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:02:17Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:21:30Z._
