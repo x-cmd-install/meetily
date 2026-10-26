@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes
+Privacy first AI meeting note taker. Download Free and open source granola, otter ai, fireflies alternative. Parakeet / Whisper live transcription, on-device speaker diarization, built on Rust. 100% local processing. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker & Assistant for macOS & Windows
 
 [![x-cmd/install — meetily Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/meetily.svg?lang=zh)](https://x-cmd.com/install/meetily)
 
@@ -38,7 +38,7 @@ x install meetily
 
 ## 流行度
 
-- **Star**: 32,132 · **Fork**: 3,517 · **开放 issue**: 355 · **贡献者**: 20
+- **Star**: 32,162 · **Fork**: 3,520 · **开放 issue**: 355 · **贡献者**: 20
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install meetily
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 3 | 32 | 5 | 12 | 0 |
-| last60d | 2026-08-26 | 1 | 15 | 53 | 8 | 32 | 72 |
-| 90d | 2026-07-27 | 1 | 20 | 79 | 15 | 45 | 77 |
-| last180d | 2026-04-28 | 2 | 38 | 153 | 45 | 99 | 126 |
-| 360d | 2025-10-30 | 5 | 81 | 175 | 71 | 167 | 263 |
-| last720d | 2024-11-04 | 12 | 142 | 178 | 151 | 204 | 661 |
+| 30d | 2026-09-26 | 0 | 3 | 32 | 5 | 12 | 0 |
+| last60d | 2026-08-27 | 1 | 15 | 53 | 8 | 31 | 38 |
+| 90d | 2026-07-28 | 1 | 20 | 77 | 14 | 45 | 74 |
+| last180d | 2026-04-29 | 2 | 38 | 153 | 45 | 99 | 122 |
+| 360d | 2025-10-31 | 5 | 80 | 175 | 71 | 167 | 260 |
+| last720d | 2024-11-05 | 12 | 142 | 178 | 151 | 204 | 661 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ meetily 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261025.yml` · 2026-10-25T05:26:46Z._
+_数据快照: `data/card/261026.yml` · 2026-10-26T05:32:29Z._
