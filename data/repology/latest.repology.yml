@@ -1,3 +1,16 @@
+- repo: aur
+  srcname: meetily
+  binname: meetily
+  visiblename: meetily
+  version: 0.4.1
+  origversion: 0.4.1-2
+  status: newest
+  summary: Local meeting transcription and summaries (CPU build)
+  maintainers:
+    - snoopey@aur
+  licenses:
+    - MIT
+    - OFL-1.1
 - repo: chocolatey
   binname: meetily
   visiblename: Meetily
