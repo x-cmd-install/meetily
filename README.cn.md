@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-Privacy first AI meeting note taker. Download Free and open source granola, otter ai, fireflies alternative. Parakeet / Whisper live transcription, on-device speaker diarization, built on Rust. 100% local processing. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker & Assistant for macOS & Windows
+Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and Fireflies. https://meetily.ai
 
 [![x-cmd/install — meetily Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/meetily.svg?lang=zh)](https://x-cmd.com/install/meetily)
 
@@ -33,27 +33,27 @@ x install meetily
 ## 发布
 
 - **最新版本**: `v0.4.1` (2026-09-12)
-- **最近提交**: 2026-09-10
+- **最近提交**: 2026-11-02
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 32,372 · **Fork**: 3,555 · **开放 issue**: 368 · **贡献者**: 20
+- **Star**: 32,395 · **Fork**: 3,558 · **开放 issue**: 369 · **贡献者**: 20
 
 ## 累计统计
 
-- **发布数**: 12 · **已合并 PR**: 142 · **开放 PR**: 179 · **已关闭 issue**: 152 · **开放 issue**: 216 · **提交数**: 661
+- **发布数**: 12 · **已合并 PR**: 142 · **开放 PR**: 182 · **已关闭 issue**: 152 · **开放 issue**: 217 · **提交数**: 663
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 3 | 36 | 6 | 22 | 0 |
-| last60d | 2026-09-03 | 1 | 11 | 60 | 6 | 36 | 11 |
-| 90d | 2026-08-04 | 1 | 16 | 78 | 13 | 52 | 73 |
-| last180d | 2026-05-06 | 2 | 36 | 153 | 46 | 109 | 113 |
-| 360d | 2025-11-07 | 5 | 80 | 176 | 67 | 176 | 259 |
-| last720d | 2024-11-12 | 12 | 142 | 179 | 152 | 216 | 661 |
+| 30d | 2026-10-04 | 0 | 2 | 39 | 6 | 23 | 2 |
+| last60d | 2026-09-04 | 1 | 11 | 61 | 6 | 37 | 13 |
+| 90d | 2026-08-05 | 1 | 16 | 80 | 13 | 51 | 75 |
+| last180d | 2026-05-07 | 2 | 35 | 155 | 46 | 109 | 115 |
+| 360d | 2025-11-08 | 5 | 79 | 179 | 67 | 177 | 261 |
+| last720d | 2024-11-13 | 12 | 142 | 182 | 152 | 217 | 663 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ meetily 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261102.yml` · 2026-11-02T07:04:16Z._
+_数据快照: `data/card/261103.yml` · 2026-11-03T07:52:34Z._

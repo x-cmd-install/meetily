@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-Privacy first AI meeting note taker. Download Free and open source granola, otter ai, fireflies alternative. Parakeet / Whisper live transcription, on-device speaker diarization, built on Rust. 100% local processing. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker & Assistant for macOS & Windows
+Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and Fireflies. https://meetily.ai
 
 [![x-cmd/install — meetily Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/meetily.svg)](https://x-cmd.com/install/meetily)
 
@@ -33,27 +33,27 @@ Total: **91,800** lines of code across **330** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.4.1` (2026-09-12)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-11-02
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 32,372 · **Forks**: 3,555 · **Open issues**: 368 · **Contributors**: 20
+- **Stars**: 32,395 · **Forks**: 3,558 · **Open issues**: 369 · **Contributors**: 20
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 142 · **Open PRs**: 179 · **Closed issues**: 152 · **Open issues**: 216 · **Commits**: 661
+- **Releases**: 12 · **Merged PRs**: 142 · **Open PRs**: 182 · **Closed issues**: 152 · **Open issues**: 217 · **Commits**: 663
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 3 | 36 | 6 | 22 | 0 |
-| last60d | 2026-09-03 | 1 | 11 | 60 | 6 | 36 | 11 |
-| 90d | 2026-08-04 | 1 | 16 | 78 | 13 | 52 | 73 |
-| last180d | 2026-05-06 | 2 | 36 | 153 | 46 | 109 | 113 |
-| 360d | 2025-11-07 | 5 | 80 | 176 | 67 | 176 | 259 |
-| last720d | 2024-11-12 | 12 | 142 | 179 | 152 | 216 | 661 |
+| 30d | 2026-10-04 | 0 | 2 | 39 | 6 | 23 | 2 |
+| last60d | 2026-09-04 | 1 | 11 | 61 | 6 | 37 | 13 |
+| 90d | 2026-08-05 | 1 | 16 | 80 | 13 | 51 | 75 |
+| last180d | 2026-05-07 | 2 | 35 | 155 | 46 | 109 | 115 |
+| 360d | 2025-11-08 | 5 | 79 | 179 | 67 | 177 | 261 |
+| last720d | 2024-11-13 | 12 | 142 | 182 | 152 | 217 | 663 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for meetily lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:04:13Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:52:34Z._
