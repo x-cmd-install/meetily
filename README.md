@@ -14,15 +14,15 @@ x install meetily
 
 ## Code insight
 
-Total: **91,800** lines of code across **330** files in the top 5 languages.
+Total: **97,023** lines of code across **339** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 38,256 | 3,081 | 6,074 | 147 |
-| Tsx | 20,134 | 1,184 | 2,285 | 121 |
+| Rust | 42,846 | 3,100 | 6,391 | 149 |
+| Tsx | 20,643 | 1,163 | 2,309 | 126 |
 | CHeader | 7,479 | 315 | 1,468 | 1 |
 | Yaml | 6,472 | 67 | 1,369 | 2 |
-| TypeScript | 6,327 | 937 | 1,032 | 59 |
+| TypeScript | 6,418 | 943 | 1,046 | 61 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **91,800** lines of code across **330** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.4.1` (2026-09-12)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-13
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 32,668 · **Forks**: 3,616 · **Open issues**: 372 · **Contributors**: 20
+- **Stars**: 32,691 · **Forks**: 3,617 · **Open issues**: 376 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 147 · **Open PRs**: 182 · **Closed issues**: 152 · **Open issues**: 220 · **Commits**: 663
+- **Releases**: 12 · **Merged PRs**: 150 · **Open PRs**: 181 · **Closed issues**: 152 · **Open issues**: 224 · **Commits**: 745
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 6 | 20 | 1 | 19 | 2 |
-| last60d | 2026-09-14 | 0 | 8 | 45 | 6 | 30 | 2 |
-| 90d | 2026-08-15 | 1 | 21 | 72 | 13 | 52 | 75 |
-| last180d | 2026-05-17 | 2 | 36 | 150 | 46 | 110 | 103 |
-| 360d | 2025-11-18 | 5 | 83 | 178 | 67 | 172 | 258 |
-| last720d | 2024-11-23 | 12 | 147 | 182 | 152 | 220 | 663 |
+| 30d | 2026-10-15 | 0 | 9 | 19 | 1 | 23 | 53 |
+| last60d | 2026-09-15 | 0 | 11 | 44 | 6 | 34 | 56 |
+| 90d | 2026-08-16 | 1 | 24 | 70 | 13 | 56 | 134 |
+| last180d | 2026-05-18 | 2 | 39 | 149 | 46 | 114 | 167 |
+| 360d | 2025-11-19 | 5 | 85 | 177 | 66 | 176 | 322 |
+| last720d | 2024-11-24 | 12 | 150 | 181 | 152 | 224 | 745 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for meetily lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:52:04Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:47:35Z._
