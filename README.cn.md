@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and Fireflies. https://meetily.ai
+Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and Fireflies. https://meetily.ai
 
 [![x-cmd/install — meetily Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/meetily.svg?lang=zh)](https://x-cmd.com/install/meetily)
 
@@ -14,7 +14,7 @@ x install meetily
 
 ## 代码洞察
 
-合计: **97,023** 行代码（覆盖前 5 种语言、共 **339** 个文件）。
+合计: **97,295** 行代码（覆盖前 5 种语言、共 **339** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
@@ -32,45 +32,49 @@ x install meetily
 
 ## 发布
 
-- **最新版本**: `v0.4.1` (2026-09-12)
-- **最近提交**: 2026-11-13
-- **Release 含资产**: 8 个
+- **最新版本**: `v0.5.0` (2026-11-14)
+- **最近提交**: 2026-11-14
+- **Release 含资产**: 12 个
 
 ## 流行度
 
-- **Star**: 32,691 · **Fork**: 3,617 · **开放 issue**: 376 · **贡献者**: 21
+- **Star**: 32,704 · **Fork**: 3,618 · **开放 issue**: 376 · **贡献者**: 21
 
 ## 累计统计
 
-- **发布数**: 12 · **已合并 PR**: 150 · **开放 PR**: 181 · **已关闭 issue**: 152 · **开放 issue**: 224 · **提交数**: 745
+- **发布数**: 13 · **已合并 PR**: 151 · **开放 PR**: 184 · **已关闭 issue**: 152 · **开放 issue**: 224 · **提交数**: 748
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 9 | 19 | 1 | 23 | 53 |
-| last60d | 2026-09-15 | 0 | 11 | 44 | 6 | 34 | 56 |
-| 90d | 2026-08-16 | 1 | 24 | 70 | 13 | 56 | 134 |
-| last180d | 2026-05-18 | 2 | 39 | 149 | 46 | 114 | 167 |
-| 360d | 2025-11-19 | 5 | 85 | 177 | 66 | 176 | 322 |
-| last720d | 2024-11-24 | 12 | 150 | 181 | 152 | 224 | 745 |
+| 30d | 2026-10-16 | 1 | 10 | 22 | 1 | 22 | 56 |
+| last60d | 2026-09-16 | 1 | 12 | 47 | 6 | 34 | 59 |
+| 90d | 2026-08-17 | 2 | 25 | 73 | 13 | 56 | 137 |
+| last180d | 2026-05-19 | 3 | 40 | 152 | 46 | 114 | 170 |
+| 360d | 2025-11-20 | 6 | 86 | 180 | 66 | 176 | 325 |
+| last720d | 2024-11-25 | 13 | 151 | 184 | 152 | 224 | 748 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [latest.json](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/latest.json) | 3.6 KiB | `other` |
-| [meetily_0.4.1_aarch64.dmg](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_aarch64.dmg) | 45.7 MiB | `other` |
-| [meetily_0.4.1_x64-setup.exe](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_x64-setup.exe) | 40.5 MiB | `other` |
-| [meetily_0.4.1_x64-setup.exe.sig](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_x64-setup.exe.sig) | 416 B | `other` |
-| [meetily_0.4.1_x64_en-US.msi](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_x64_en-US.msi) | 65.5 MiB | `other` |
-| [meetily_0.4.1_x64_en-US.msi.sig](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_x64_en-US.msi.sig) | 416 B | `other` |
-| [meetily_aarch64.app.tar.gz](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_aarch64.app.tar.gz) | 47.0 MiB | `native/linux/arm64` |
-| [meetily_aarch64.app.tar.gz.sig](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_aarch64.app.tar.gz.sig) | 404 B | `other` |
+| [latest.json](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/latest.json) | 4.9 KiB | `other` |
+| [meetily_0.5.0_aarch64.dmg](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_0.5.0_aarch64.dmg) | 45.8 MiB | `other` |
+| [meetily_0.5.0_amd64.AppImage](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_0.5.0_amd64.AppImage) | 138.6 MiB | `other` |
+| [meetily_0.5.0_amd64.AppImage.sig](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_0.5.0_amd64.AppImage.sig) | 420 B | `other` |
+| [meetily_0.5.0_amd64.deb](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_0.5.0_amd64.deb) | 70.4 MiB | `runtime/deb/amd64` |
+| [meetily_0.5.0_amd64.deb.sig](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_0.5.0_amd64.deb.sig) | 412 B | `other` |
+| [meetily_0.5.0_x64-setup.exe](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_0.5.0_x64-setup.exe) | 40.6 MiB | `other` |
+| [meetily_0.5.0_x64-setup.exe.sig](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_0.5.0_x64-setup.exe.sig) | 416 B | `other` |
+| [meetily_0.5.0_x64_en-US.msi](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_0.5.0_x64_en-US.msi) | 65.6 MiB | `other` |
+| [meetily_0.5.0_x64_en-US.msi.sig](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_0.5.0_x64_en-US.msi.sig) | 416 B | `other` |
+| [meetily_aarch64.app.tar.gz](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_aarch64.app.tar.gz) | 47.1 MiB | `native/linux/arm64` |
+| [meetily_aarch64.app.tar.gz.sig](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_aarch64.app.tar.gz.sig) | 404 B | `other` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/meetily) 上共有 **3** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/meetily) 上共有 **3** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
 
 ## 改进这些数据
 
@@ -81,4 +85,4 @@ meetily 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261114.yml` · 2026-11-14T07:47:36Z._
+_数据快照: `data/card/261115.yml` · 2026-11-15T07:38:51Z._
