@@ -38,22 +38,22 @@ Total: **97,295** lines of code across **339** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 32,957 · **Forks**: 3,668 · **Open issues**: 382 · **Contributors**: 21
+- **Stars**: 32,981 · **Forks**: 3,673 · **Open issues**: 384 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 151 · **Open PRs**: 189 · **Closed issues**: 152 · **Open issues**: 230 · **Commits**: 748
+- **Releases**: 13 · **Merged PRs**: 151 · **Open PRs**: 192 · **Closed issues**: 152 · **Open issues**: 232 · **Commits**: 748
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 1 | 9 | 19 | 1 | 27 | 55 |
-| last60d | 2026-09-23 | 1 | 12 | 51 | 6 | 39 | 57 |
-| 90d | 2026-08-24 | 2 | 25 | 76 | 11 | 59 | 137 |
-| last180d | 2026-05-26 | 3 | 37 | 155 | 46 | 119 | 164 |
-| 360d | 2025-11-27 | 6 | 86 | 185 | 65 | 179 | 318 |
-| last720d | 2024-12-02 | 13 | 151 | 189 | 152 | 230 | 748 |
+| 30d | 2026-10-24 | 1 | 9 | 21 | 1 | 28 | 36 |
+| last60d | 2026-09-24 | 1 | 12 | 53 | 6 | 40 | 57 |
+| 90d | 2026-08-25 | 2 | 25 | 77 | 9 | 61 | 110 |
+| last180d | 2026-05-27 | 3 | 37 | 156 | 46 | 121 | 159 |
+| 360d | 2025-11-28 | 6 | 86 | 188 | 65 | 181 | 314 |
+| last720d | 2024-12-03 | 13 | 151 | 192 | 152 | 232 | 748 |
 
 ## Release assets
 
@@ -74,7 +74,7 @@ Total: **97,295** lines of code across **339** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **3** distros on [repology.org](https://repology.org/project/meetily). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+Reported by **3** distros on [repology.org](https://repology.org/project/meetily). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -85,4 +85,4 @@ Install metadata for meetily lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:33:10Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T09:30:12Z._
