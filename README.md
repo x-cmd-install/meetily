@@ -38,7 +38,7 @@ Total: **97,295** lines of code across **339** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 33,002 · **Forks**: 3,675 · **Open issues**: 384 · **Contributors**: 21
+- **Stars**: 33,027 · **Forks**: 3,678 · **Open issues**: 384 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **97,295** lines of code across **339** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 9 | 30 | 1 | 28 | 36 |
-| last60d | 2026-09-25 | 1 | 12 | 62 | 6 | 40 | 57 |
-| 90d | 2026-08-26 | 2 | 24 | 75 | 9 | 60 | 110 |
-| last180d | 2026-05-28 | 3 | 37 | 156 | 46 | 121 | 159 |
-| 360d | 2025-11-29 | 6 | 85 | 189 | 66 | 180 | 314 |
-| last720d | 2024-12-04 | 13 | 151 | 193 | 153 | 231 | 748 |
+| 30d | 2026-10-26 | 1 | 9 | 30 | 1 | 26 | 36 |
+| last60d | 2026-09-26 | 1 | 12 | 62 | 6 | 40 | 57 |
+| 90d | 2026-08-27 | 2 | 24 | 75 | 9 | 59 | 110 |
+| last180d | 2026-05-29 | 3 | 37 | 156 | 45 | 120 | 159 |
+| 360d | 2025-11-30 | 6 | 85 | 189 | 66 | 180 | 314 |
+| last720d | 2024-12-05 | 13 | 151 | 193 | 153 | 231 | 748 |
 
 ## Release assets
 
@@ -72,10 +72,6 @@ Total: **97,295** lines of code across **339** files in the top 5 languages.
 | [meetily_aarch64.app.tar.gz](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_aarch64.app.tar.gz) | 47.1 MiB | `native/linux/arm64` |
 | [meetily_aarch64.app.tar.gz.sig](https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_aarch64.app.tar.gz.sig) | 404 B | `other` |
 
-## Distribution status
-
-Reported by **3** distros on [repology.org](https://repology.org/project/meetily). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
 ## Improve this data
 
 Install metadata for meetily lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `meetily` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -85,4 +81,4 @@ Install metadata for meetily lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:34:06Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:17:22Z._
