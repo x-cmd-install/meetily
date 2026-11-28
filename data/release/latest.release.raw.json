@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5065,
       "digest": "sha256:ac493bf6ea88a34b461fe37c1826ee0ce169b1f49570282b03aabfafddaeeb6f",
-      "download_count": 43661,
+      "download_count": 46048,
       "created_at": "2026-11-14T12:23:56Z",
       "updated_at": "2026-11-14T12:23:57Z",
       "browser_download_url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/latest.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 48053942,
       "digest": "sha256:c7ac63bf80c4085d95388e6c569c95f9a7bcb1b539f3fe964f4522c63eac2ef3",
-      "download_count": 5913,
+      "download_count": 6238,
       "created_at": "2026-11-13T14:25:56Z",
       "updated_at": "2026-11-13T14:25:58Z",
       "browser_download_url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_0.5.0_aarch64.dmg"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 145361400,
       "digest": "sha256:dc540e766eec46138a3d47b2e9d8f1f36a8ad953f8553aaddc7789f7a670d2f8",
-      "download_count": 435,
+      "download_count": 462,
       "created_at": "2026-11-13T14:26:05Z",
       "updated_at": "2026-11-13T14:26:12Z",
       "browser_download_url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_0.5.0_amd64.AppImage"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 420,
       "digest": "sha256:5b7c0fc18b8424a0df07d2e5d7674a7a8ea1042152f98682596a4fe054fa595a",
-      "download_count": 53,
+      "download_count": 57,
       "created_at": "2026-11-13T14:26:13Z",
       "updated_at": "2026-11-13T14:26:13Z",
       "browser_download_url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_0.5.0_amd64.AppImage.sig"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 73859994,
       "digest": "sha256:c7c9d56a9bf8b4f7b41b64d8d1c04d8174ef150f450043923e2828eaa895d404",
-      "download_count": 530,
+      "download_count": 576,
       "created_at": "2026-11-13T14:26:00Z",
       "updated_at": "2026-11-13T14:26:03Z",
       "browser_download_url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_0.5.0_amd64.deb"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 412,
       "digest": "sha256:c43d0dc2990fb4a59d1440726e679545d4bd401e840b02723b835ac97bb382c7",
-      "download_count": 40,
+      "download_count": 43,
       "created_at": "2026-11-13T14:26:03Z",
       "updated_at": "2026-11-13T14:26:04Z",
       "browser_download_url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_0.5.0_amd64.deb.sig"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 42600112,
       "digest": "sha256:555c55dbc7c6514c8e60c6a190ebe42107d7e2bc8bce5ef2209bb472ca10561c",
-      "download_count": 6745,
+      "download_count": 7075,
       "created_at": "2026-11-13T14:31:28Z",
       "updated_at": "2026-11-13T14:31:30Z",
       "browser_download_url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_0.5.0_x64-setup.exe"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 416,
       "digest": "sha256:dfd6f8258d2958f04b5e60906b7b3a9826b9f726403fbf9948d4284adabf9e01",
-      "download_count": 73,
+      "download_count": 75,
       "created_at": "2026-11-13T14:31:30Z",
       "updated_at": "2026-11-13T14:31:30Z",
       "browser_download_url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_0.5.0_x64-setup.exe.sig"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 68816896,
       "digest": "sha256:34333b28a2f8f5851ee546e5f917e2612dcca36729d1d6989a7854a86ba4d7ba",
-      "download_count": 277,
+      "download_count": 287,
       "created_at": "2026-11-13T14:31:25Z",
       "updated_at": "2026-11-13T14:31:27Z",
       "browser_download_url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_0.5.0_x64_en-US.msi"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 49354531,
       "digest": "sha256:daac3cf62aff0c4025b2ca394806a249eda3ff9ec37624c31eda25af1c486ac3",
-      "download_count": 1686,
+      "download_count": 1745,
       "created_at": "2026-11-13T14:25:59Z",
       "updated_at": "2026-11-13T14:26:02Z",
       "browser_download_url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_aarch64.app.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 404,
       "digest": "sha256:e40dae9da52654ad8de8a362d99c45242729acb059106dacb1bd4753dd2b1039",
-      "download_count": 24,
+      "download_count": 26,
       "created_at": "2026-11-13T14:26:02Z",
       "updated_at": "2026-11-13T14:26:03Z",
       "browser_download_url": "https://github.com/Zackriya-Solutions/meetily/releases/download/v0.5.0/meetily_aarch64.app.tar.gz.sig"
